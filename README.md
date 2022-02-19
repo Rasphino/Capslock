@@ -201,11 +201,11 @@ Capslock works on **ANSI** keyboards and similar layouts. It literally remaps ev
 
 | Key\Mod |         <kbd>✱</kbd>          |     <kbd>⌘</kbd>     |      <kbd>⌥</kbd>      |
 | :-----: | :----------------: | :-------: | :---------: |
-|    <kbd>E</kbd>    |       Safari       |  Finder   |    Mail     |
+|    <kbd>E</kbd>    |       Finder       |  Safari   |    Mail     |
 |    <kbd>R</kbd>    |       iTerm2       |  Preview  |  Terminal   |
 |    <kbd>T</kbd>    | Visual Studio Code |  Typora   |    Note     |
 |    <kbd>Y</kbd>    |        Siri        | Karabiner | Amphetamine |
-|    <kbd>F</kbd>    |      Alfred 4      |   Dash    | Dictionary  |
+|    <kbd>F</kbd>    |       Firefox      |   Dash    | Dictionary  |
 |    <kbd>G</kbd>    |   Intellij IDEA    |  Chrome   |  Calender   |
 
 

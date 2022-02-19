@@ -4777,7 +4777,7 @@
       "description": "Hyper Application",
       "manipulators": [
         {
-          "description": "command + e = finder",
+          "description": "command + e = safari",
           "type": "basic",
           "from": {
             "key_code": "e",
@@ -4793,7 +4793,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a finder"
+              "shell_command": "open -a Safari"
             }
           ]
         },
@@ -4819,7 +4819,7 @@
           ]
         },
         {
-          "description": "e = safari",
+          "description": "e = finder",
           "type": "basic",
           "from": {
             "key_code": "e",
@@ -4834,7 +4834,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a Safari"
+              "shell_command": "open -a finder"
             }
           ]
         },
@@ -5067,7 +5067,7 @@
           ]
         },
         {
-          "description": "f = Alfred 4",
+          "description": "f = Firefox",
           "type": "basic",
           "from": {
             "key_code": "f",
@@ -5082,7 +5082,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Alfred 4'"
+              "shell_command": "open -a 'Firefox'"
             }
           ]
         },
